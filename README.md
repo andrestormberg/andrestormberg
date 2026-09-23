@@ -10,7 +10,7 @@ My projects explore how AI can turn complex workflows into simple, useful produc
 
 ## What I'm building
 
-### myJob — AI-powered Job Coach
+### [myJob — AI-powered Job Coach](https://github.com/andrestormberg/myjob-ai-job-coach)
 
 An AI-native job search and application platform that turns the entire job-search workflow into a conversation.
 
@@ -24,7 +24,9 @@ Instead of manually searching job boards, evaluating positions, adapting CVs and
 - Integrates external job sources and application workflows
 - Uses AI agents and tools to automate multi-step tasks
 
-**Built with:** PHP · Laravel · MySQL · JavaScript · LLM APIs · REST APIs
+**Built with:** PHP · MySQL · JavaScript · LLM APIs · REST APIs
+
+➡️ [View the myJob product case study →](https://github.com/andrestormberg/myjob-ai-job-coach)
 
 ### Recruiter Chatbot — AI Portfolio Assistant
 
