@@ -43,5 +43,3 @@ Product discovery · AI use-case design · Rapid prototyping · AI-assisted deve
 ## Let's connect
 
 I'm interested in roles and projects at the intersection of **Product Management, AI and hands-on product building**.
-
-[Portfolio](https://andre.prompt-pilots.com) · [LinkedIn](https://www.linkedin.com/in/andre-stormberg-b9732689/)
